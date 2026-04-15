@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About:
+Front-End Developer specializing in Angular with experience building responsive and scalable web applications.
+Skilled in JavaScript (ES6+), TypeScript, and modern UI development. Experienced with SPA architecture, REST
+APIs, and performance optimization.
 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mohamed Anwar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed.anwar2002305@gmail.com) 
